@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "532d7748-cc7f-4076-bb17-f8dfefacf640"
+name: "evidence-claim-check"
+display_name: "Evidence-Claim Check"
+description: "Checks whether claims are supported by cited sources, flags unsupported assertions and overstatements"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-evidence-claim-check"
+category: "shared"
+tags:
+  - "shared"
+  - "skill"
+contents:
+  skills: 1
+  prompts: 0
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
